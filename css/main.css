@@ -1,0 +1,79 @@
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+}
+
+.section-intro #main-heading {
+    padding-top: 100px !important;
+}
+
+.cuscol {
+    background-color: #292F47 !important;
+    text-decoration-color: #DCF5FF !important;
+}
+
+.cuscolone {
+    color: #DCF5FF !important;
+}
+
+.cuscoltwo {
+    color: #198CC1 !important;
+}
+.cuscolthree {
+    color: #292F47 !important;
+}
+
+.section-intro {
+    background-color: #292F47 !important;
+}
+
+
+.brand-logo {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-right: 15px !important;
+}
+
+.bold {
+    color: #DCF5FF !important;
+    font-weight: 500 !important;
+    font-size: 24px !important;
+}
+
+.section-price {
+    background-color: #ffffff !important;
+    text-decoration-color: #292f47 !important;
+}
+.section-usecase {
+    background-color: #DCF5FF !important;
+    text-decoration-color: #292f47 !important;
+}
+
+.section-whatsapp-benefit2 {
+    background-color: #223f47 !important;
+}
+
+.section-benefits {
+    background-color: #ffffff !important;
+}
+
+.page-footer {
+    background-color: #198cc1 !important;
+}
+
+.page-footer2 {
+    background-color: #292f47 !important;
+}
+
+
+.search-window-text {
+    padding-top: 100px !important;
+}
+
+.aiBenefit-text {
+    padding-top: 1px !important;
+}
+
+.btnmine {
+    background-color: #292f47 !important;
+}
